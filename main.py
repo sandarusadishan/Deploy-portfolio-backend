@@ -70,7 +70,7 @@ Key Projects:
 8. Vehicle Market Price Tracker: Data engineering project using Databricks and Medallion Architecture.
 
 Education:
-- BSc (Hons) Computer Science (Software Engineering) - Kingston University London (UK) / ESU Colombo Top-up.
+- BSc (Hons) Computer Science (Software Engineering) - Kingston University London (UK).
 - Diploma in Software Engineering - International College of Excellence in Technology (iCET).
 - English Diploma - ESOFT Uni (ESU).
 - G.C.E. Advanced Level (Physical Science) - Henegama Central College.
